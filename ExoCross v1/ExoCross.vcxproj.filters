@@ -27,18 +27,6 @@
     <ClInclude Include="Drawings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="imgui\Comfortaa-Bold.h">
-      <Filter>imgui</Filter>
-    </ClInclude>
-    <ClInclude Include="imgui\Comfortaa-Regular.h">
-      <Filter>imgui</Filter>
-    </ClInclude>
-    <ClInclude Include="imgui\FontAwesome.h">
-      <Filter>imgui</Filter>
-    </ClInclude>
-    <ClInclude Include="imgui\IconsFontAwesome.h">
-      <Filter>imgui</Filter>
-    </ClInclude>
     <ClInclude Include="imgui\imconfig.h">
       <Filter>imgui</Filter>
     </ClInclude>
@@ -61,9 +49,6 @@
       <Filter>imgui</Filter>
     </ClInclude>
     <ClInclude Include="imgui\imstb_truetype.h">
-      <Filter>imgui</Filter>
-    </ClInclude>
-    <ClInclude Include="imgui\unknownController.h">
       <Filter>imgui</Filter>
     </ClInclude>
   </ItemGroup>
